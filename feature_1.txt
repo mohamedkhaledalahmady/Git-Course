@@ -1,3 +1,5 @@
 Implementation of feature 1
 Continue Implementation
 more code ...
+
+after merge
