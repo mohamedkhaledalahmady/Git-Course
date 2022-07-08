@@ -4,3 +4,5 @@ more code ...
 
 after merge
 after merga 2
+
+delete line and add new line
