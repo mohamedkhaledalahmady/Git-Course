@@ -10,3 +10,4 @@ after merga 2
 1.conflict
 2.conflict
 3.conflict
+delete line and add new line
