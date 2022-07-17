@@ -7,3 +7,6 @@ after merga 2
 
 1.feature 2
 2.feature 2
+1.conflict
+2.conflict
+3.conflict
